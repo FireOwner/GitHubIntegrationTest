@@ -10,5 +10,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
         //Mala zmiana w pliku programu
+        //Druga zmiana w pliku
     }
 }
